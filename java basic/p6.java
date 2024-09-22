@@ -8,6 +8,5 @@ class demo{
 }
 class vivo{
 	void fun(){
-	System.out.println("hello shreyu");
-	}
+		}
 }
